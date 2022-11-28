@@ -1,1 +1,2 @@
-# Alura-20-Machine-Learning-lidando-com-dados-de-muitas-dimensoes
+# reducao-dimensionalidade
+Curso de Redução de dimensionalidade da Alura
